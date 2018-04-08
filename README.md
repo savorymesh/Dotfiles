@@ -6,9 +6,9 @@ Just my personal config files. Nonstandard ones are :
   ~/.atom/config.cson.
 - atom_packages.txt: a list of my installed atom package. To obtain, run
    
-  $ apm list --installed --bare > atom_packages.txt 
+  ```$ apm list --installed --bare > atom_packages.txt```
 
   and to restore, run
 
-  $ apm install -packages-files atom_packages.txt
+  ```$ apm install -packages-files atom_packages.txt```
 
