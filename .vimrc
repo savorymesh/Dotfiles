@@ -30,3 +30,6 @@ inoremap jj <ESC>
 
 " Let Vim adjust colors for dark background
 set bg=dark
+
+" Configure textwidth to 80 chars for wrapping
+set textwidth=80
