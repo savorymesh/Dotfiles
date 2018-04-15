@@ -10,5 +10,5 @@ Just my personal config files. Nonstandard ones are :
 
   and to restore, run
 
-  ```$ apm install -packages-files atom_packages.txt```
+  ```$ apm install --packages-files atom_packages.txt```
 
