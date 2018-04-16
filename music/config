@@ -9,6 +9,11 @@ song_columns_list_format = "(25)[red]{a} (30)[white]{t|f} (30)[blue]{b} (15)[red
 color1 = "white"
 color2 = "black"
 
+# bar style
+progressbar_color = black
+progressbar_elapsed_color = red
+progressbar_look = "—●-"
+
 # misc
 mouse_support = "yes"
 header_visibility = "no"
